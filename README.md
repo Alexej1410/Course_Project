@@ -486,6 +486,24 @@ void main()
 <img width="299" height="786" alt="image" src="https://github.com/user-attachments/assets/21680940-dd93-42f9-a9d3-655c852b45ad" /><br>
 3) функция print_proc<br>
 <img width="294" height="562" alt="image" src="https://github.com/user-attachments/assets/736bb19f-8c75-46ea-8279-ed5857fd579f" /><br>
+4) функция print_array<br>
+<img width="293" height="542" alt="image" src="https://github.com/user-attachments/assets/10c2cd44-3109-4488-80ff-820be4fa95b5" /><br>
+5) функции search_proc_c_core и search_proc_socket<br>
+<img width="239" height="557" alt="image" src="https://github.com/user-attachments/assets/e62a25d2-1019-45ee-b35c-a574f1f6eb3a" /><br>
+6) функции compare_frequensy и sort_frequensy<br>
+<img width="300" height="646" alt="image" src="https://github.com/user-attachments/assets/27767dd1-2526-458d-a0be-b794fb1ef661" /><br>
+7) функция sort_global<br>
+<img width="452" height="629" alt="image" src="https://github.com/user-attachments/assets/66a963d5-6347-47e8-a4fb-266fbb27cb37" /><br>
+8) функция revers<br>
+<img width="254" height="717" alt="image" src="https://github.com/user-attachments/assets/608bfbd1-27db-49b5-a249-3698b8ccc03e" /><br>
+9) функция output<br>
+<img width="357" height="662" alt="image" src="https://github.com/user-attachments/assets/877698b3-ab1c-4c18-ad92-cf68c32d15c4" /><br>
+10) функция input<br>
+<img width="315" height="690" alt="image" src="https://github.com/user-attachments/assets/dc44d033-3f47-4941-b0aa-6560a433c3a1" /><br>
+11) функция addData<br>
+<img width="253" height="970" alt="image" src="https://github.com/user-attachments/assets/b5d6b24d-b14f-4d4f-82ad-89ffc5f62f56" /><br>
+12) функция main<br>
+<img width="767" height="629" alt="image" src="https://github.com/user-attachments/assets/5102ec16-cfbc-4fff-b8f1-ff7cfaa0165a" /><br>
 
 <h2>Консоль</h2>
 1)Меню выбора функций<br>
